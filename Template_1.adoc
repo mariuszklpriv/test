@@ -619,39 +619,7 @@ baba ab abbabbaaabb.
 h| {set:cellbgcolor:#CCCCCC} xux zx zxx xxzxzzzxzzx: | {set:cellbgcolor:transparent} <xzzzx (zxzxxzxx), zxxzxz, zxxzzxzx>
 |===
 
-===== zx/zUx xzxzzzxzxz
 
-[cols="1,1,1,2,3"]
-|===
-h| {set:cellbgcolor:#C0C0C0}  xz. h| zx/zUx x| zzxx. /zxx h| xzxzzzxzx h| xzzzxzxxzzx / xzxzxzxzz xz xzxz zzxzx
-| {set:cellbgcolor:transparent} 1  | <zx
-zx
-zUx
-zx
-zx/zUx>
- | <z
-zx
-z>
- | <xzzz zx xxz xzxzzzxzx> | <xxzzx xzzx xzzzxzxxzzx zx xxz xzxzzzxzx>
-
-xzxzuxx zzxuz = <xzxzxz z xzxxxzzz zzxuz xzxz zx zzzz zx zxxzzxzx xzxzzzxzx zxzxx xz zxzxzzxzzzx xzxx z xzxzuxx zzxuz xxzx xzxz xzz xzxxzx zzzx>
-
-(<xzxzxzxzz xz xxz xuxzxzzxzx xzxz zzxzx>)
-<zxxzxzx xzxzxzxzzz xz xxz xzxz zzxzx zxz:
-- zxuzzxzxzzx
-- zxxzxx / zxxzzx
-- zxxxzxuxz zx zx zxxzxx / zxxzzx
-- xzxzzzxzx xzzx zx zzxuzz
-- xzxz xxxzz
-- xzxz zxxuzxuxzz
->
-
-<zzzzxxz: zzz xzx xzxzx>
-
-| 1  | zx | z | xzzzzxz | xxz zxzxzzxx xz xz xxzzzzzzx.
-
-(xzzzzxz)
-|===
 
 ===== xzzzxzxxzzx
 
