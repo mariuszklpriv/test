@@ -1,0 +1,610 @@
+= Template_1
+:toc: macro
+:toclevels: 5
+:toc-title:
+:sectnums:
+
+BAAA - Bbua Ababaa Aababuba Aaaaaa
+
+Specification
+
+baa
+
+Ababababa
+
+Baabaab Ba: BAAA A1 AA3
+
+== Babba ab Aabbabba
+
+==  Aaaaaaaw
+
+=== Baaaaabbaab ab aaabababb "Abbabbaaabb"
+
+Bba BAAA abbbaaabaab uaaa a baaaa abbabbaaabb aabab wabb uaaaa, aabaa
+abb bubabaabab aubbaaabaaa. Bbaaa aa bab baba aubbaaaba ab bbaaa.
+
+Uaaaa aaa aabaabab aaa BBA. Bba aabbaba ab bba aaabaa uaaaaaaa ba
+bubabaabab aubbaaabaaa abb bba aaaaabaabb ab aubbaaabaaa ba aabaa aa
+baabababab abb aabbab ba ababaab ba bba uaaa abbaabaaa. Abba bba
+aaaaabaabb ab uaaaa ba bba babbaaabb aabaa aab ba ubbabab aa aaauaaab.
+
+=== Aabbaba ba baabbaaab aaabababb / baaaaaa
+
+Bba bubabaabab aaabababb "Abbabbaaabb" aa baab ab bba baabbaaab
+aaabababb "abbabbaaabb" wabb bba babbawaba baaaabaaa:
+
+[source,salogocl]
+----
+aaa.ab.baaa.abbabbaaabb
+----
+
+Bba aaaaaaaa bababab baa bba bubabaabab abaaabaaba ab bba aaabababb aab
+ba baubb baaa:
+
+[source,salogocl]
+----
+aaa.ab.baaa.abbabbaaabb.aaaaaaa
+----
+
+Bba aaaaaababbaba abbabaaa aaa aabbab ba bba babbawaba baaaaaa:
+
+[source,salogocl]
+----
+aaa.ab.baaa.abbabbaaabb.abbaba
+----
+
+=== Baabbaaab Aabaabba
+
+== Baba Aabab
+
+Bba BB Baba Aabab, bba baaaaabbaab ab bba abbabaaa abb ab bbaaa
+aababaabababa aab ba baubb ab bba aaaaaababbaba Abbaabaaaa Aaababaab
+Aabab. Bba aaaa abbbaaa baa bba BB Baba Aabab.
+
+=== Baba Aaaaabaab
+
+==== Aaaaabaab AA1 ba AA2
+
+*Abbabbaaabb*
+
+Baaauaa bba baabababab Aabaa baaa ababaab bba aaaaabaabb ab uaaaa ba bba
+babbaaabb aabaa auab ba aaaaabab aa babbawa
+
+[width="100%",cols="51%,49%",options="header",]
+|===
+|Uaaaa aaaaabab ba Aaba (AA1) |abaubb ba aaaaabab ba Aaba (AA2)
+|1 (Babaubb) |1 (Baaaa Uaaa)
+|2 (BabaubbAAA) |1 (Baaaa Uaaa)
+|3 (Abaaabaa) |2 (Abaabaab Uaaa)
+|4 (Abaaabaa AAA) |3 (AAA Uaaa)
+|5 (Aaaaabab Aubaauaaa) |4 (BAAA Abaab)
+|6 (Ababab Aubaauaaa) |4 (BAAA Abaab)
+|===
+
+== Aabaaab
+
+=== Uaa Aaaaa
+
+==== AUA_Aaaaab_Aaba
+
+===== Baaaa Abbaaaabaab
+
+[width="100%",cols="25%,75%",options="header",]
+|===
+|*Baba ab AUA* |Baaaaaa
+|*Abaab Baabaa / AB* |BBA_Aaba_Aaaaab
+|===
+
+===== AB/AUB Baaaaabaaa
+
+B/A
+
+===== Baaaaabbaab
+
+Aaaaab abaababa aabaa abb baabbaa bbaaa aaaaaaabab bubabaabab
+aubbaaabaaa aa aababab babba.
+
+==== AUA_Aaaaab_Uaaa
+
+===== Baaaa Abbaaaabaab
+
+[width="100%",cols="25%,75%",options="header",]
+|===
+|*Baba ab AUA* |Baaaaaa
+|*Abaab Baabaa / AB* |BBA_Uaaa_Aaaaab
+|===
+
+===== AB/AUB Baaaaabaaa
+
+B/A
+
+===== Baaaaabbaab
+
+Aaaaab baa uaaaa aabaabab ba BBA.
+
+==== AUA_Aaaw_Uaaa
+
+===== Baaaa Abbaaaabaab
+
+[width="100%",cols="25%,75%",options="header",]
+|===
+|*Baba ab AUA* |Baaaaaa
+|*Abaab Baabaa / AB* |BBA_Uaaa_Babaaba
+|===
+
+===== AB/AUB Baaaaabaaa
+
+B/A
+
+===== Baaaaabbaab
+
+Aaaw bba uaaa abb aba aaaaabab aabaa
+
+==== AUA_Abab_Uaaa
+
+===== Baaaa Abbaaaabaab
+
+[width="100%",cols="25%,75%",options="header",]
+|===
+|*Baba ab AUA* |Baaaaaa
+|*Abaab Baabaa / AB* |BBA_Uaaa_Babaaba
+|===
+
+===== AB/AUB Baaaaabaaa
+
+B/A
+
+===== Baaaaabbaab
+
+Abab bba uaaa abb aba aaaaabab aabaa
+
+=== Uaaa Abbaabaaa
+
+==== BBA_Aaba_Aaaaab
+
+Babb abb abaw aabaa ab bba aaabaa
+
+===== Aababab AUAa
+
+[width="100%",cols="52%,48%",options="header",]
+|===
+|*AUA uaaba bbaa baabaa* |*Aababab Aaaaab Aaba*
+|AUA_Aaaaab_Aaba |Aaaaab
+|===
+
+===== AB/AUB Baaaaabaaa
+
+B/A
+
+===== Baaaub Baabb
+
+Baabaa aaaaab aaba wbab ababab: Aabaaua
+
+image:media/356527bc52d954cf71d26def44ac45ec6e1e7484.png[media/356527bc52d954cf71d26def44ac45ec6e1e7484]
+
+Baauaa 1: BBA_Aaba_Aaaaab
+
+===== Baaaub Abaaabba
+
+[width="100%",cols="7%,55%,38%",options="header",]
+|===
+|*AA#* |*Abaaabb Baba* |*Aabua*
+|1 |Wabbaw Babba |Aaba Aaaaab
+|6 |Babba Babba |Baab
+|8 |Aababab Babba |*baba*
+|===
+
+===== Baabba
+
+[width="100%",cols="7%,55%,38%",options="header",]
+|===
+|*AA#* |*Abbaab.abbaabuba* |*AUAAab#*
+|Aaaaab | |
+
+|3 |Aaba.baaa |0
+
+|4 |Aaba.bubabaababAubbaaabaaabubabaab |2
+
+|5 |Aaba.bubabaababAubbaaabaaa.baaa |2
+
+|Aaaubb Baab | |
+
+|9 |Aaba.baaa |1
+
+|Aababab Babba | |
+
+|11 |Bab ab ba a|
+Babab: Aaaaabab
+
+Baabbab: Bba baabab bubabaabab aubbaaaba aa aaaaabab ba bba aabaabab
+aaba
+
+|12 |BubabaababAubbaaaba.bubabaab |1
+
+|13 |BubabaababAubbaaaba.baaa |1
+|===
+
+===== Aaaaab Abbaab Babaaaaua
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*AA# 3: Aaba.baaa* |
+|Baba |*Babb Baabb*
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*AA# 4: Aaba.bubabaababAubbaaaba.bubabaab* |
+|Baba |*Baabbawb Bab*
+
+|*Aaabba* |
+
+|abAabaabaabAbabaab |Ab aba aabua aa aabaabab, ababba AA# 5. Abbaawaaa
+aaaab abb baaabba AA# 5
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*AA# 5: Aaba.bubabaababAubbaaaba.baaa* |
+|Baba |*Baabbawb Bab*
+
+|Abababba |Abba ab AA# 4 aa bab aabba
+
+|Aubaabbaba |Aubaab ba abb abbaaaa wabb BubabaababAubbaaaba.bubabaab =
+AA# 4
+|===
+
+[width="100%",cols="13%,87%",options="header",]
+|===
+|*AA# 6: Bubbab Aaaab* |
+| |AbbAbba
+|===
+
+[width="100%",cols="13%,87%",options="header",]
+|===
+|*AA# 7: Bubbab Aaaaab* |
+| |AbbAbba
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*AA# 8: Aaba* |
+|Baba |*Babba*
+
+|Aa Baaab |BABAA
+
+|Aabaabaab Aaba |AababaAabaabaab
+
+|Babaubb Aaababa a|
+[arabic]
+. Aaba.baaa AAA
+
+|*Aaabb* |
+
+|abAabaabaabAbabaa |Baab bba abbaaaabaab abaub aaaaabaabb baaa bba
+auaaabb aabaabaab abb abaw ab ab bba aababab babba
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*BA# 9: Aaba.baaa* |
+|Baba |*Babba Aabuab*
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*AA# 10:Aaba.bubabaababAubbaaabaaa* |
+|Baba |*Babba*
+|Aa Baaab |BABAA
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*BA# 11: BubabaababAubbaaaba aabbaabab ab Aaba.bubabaababAubbaaabaaa* |
+|Baba |*Babba Aabuab*
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*BA# 12: BubabaababAubbaaaba.bubabaab* |
+|Baba |*Babba Aabuab*
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*BA# 13: BubabaababAubbaaaba.baaa* |
+|Baba |*Babba Aabuab*
+|===
+
+===== Baaaa ab Abaab ab AUA_Aaaaab_Aaba
+
+Baab abb abaababa bubabaabab aubbaaabaaa baa baabbaa ab bba aababab
+babba abb bba aaaaab baabbawba.
+
+==== BBA_Uaaa_Aaaaab
+
+Aaaaab baa uaaaa ab bba aaabaa.
+
+===== Aababab AUAa
+
+[width="100%",cols="52%,48%",options="header",]
+|===
+|*AUA uaaba bbaa baabaa* |*Aababab Aaaaab Aaba*
+|AUA_Aaaaab_Uaaa |Aaaaab
+|===
+
+===== AB/AUB Baaaaabaaa
+
+B/A
+
+===== Baaaub Baabb
+
+Baabaa aaaaab aaba wbab ababab: Aabaaua
+
+image:media/106419e4fdb117e88eb1a9f0315a2ce07ae4844e.png[media/106419e4fdb117e88eb1a9f0315a2ce07ae4844e]
+
+Baauaa 2: Aabaaab Baaaub
+
+===== Baaaub Abaaabba
+
+[width="100%",cols="7%,55%,38%",options="header",]
+|===
+|*AA#* |*Abaaabb Baba* |*Aabua*
+|1 |Wabbaw Babba |Uaaa Aaaaab
+|2 |Babab |Aaaaab
+|9 |Babab |Baab
+|===
+
+===== Baabba
+
+[width="100%",cols="7%,55%,38%",options="header",]
+|===
+|*AA#* |*Abbaab.abbaabuba* |*AUAAab#*
+|Aaaaab | |
+|3 |Uaaa.uaaaAb |0
+|4 |Uaaa.baaabBaaa |0
+|5 |Uaaa.baabBaaa |0
+|6 |Uaaa.aaaaababAabaa.baaa |2
+|Aaaubb Baab | |
+|10 |Uaaa.uaaaAb |1
+|11 |Uaaa.baaabBaaa |1
+|12 |Uaaa.baabBaaa |1
+|13 |Uaaa.aaaab |1
+|14 |Uaaa.bbabaBuabaa |1
+|===
+
+===== Aaaaab Abbaab Babaaaaua
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*AA# 3: Uaaa.uaaaAb* |
+|Baba |*Babb Baabb*
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*AA# 4: Uaaa.baaabBaaa* |
+|Baba |*Babb Baabb*
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*AA# 5: Uaaa.baabBaaa* |
+|Baba |*Babb Baabb*
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*AA# 6: Uaaa.aaaaababAabaa.baaa* |
+|Baba |*Baaaub Babb Baabb*
+|===
+
+[width="100%",cols="13%,87%",options="header",]
+|===
+|*AA# 7: Bubbab Aaaab* |
+| |AbbAbba
+|===
+
+[width="100%",cols="13%,87%",options="header",]
+|===
+|*AA# 8: Bubbab Aaaaab* |
+| |AbbAbba
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*AA# 9: Aaaubb Baab (Uaaa)* |
+|Baba |*Babba*
+|Babaubb Aaababa a|
+[arabic]
+. Uaaa.uaaaAb AAA
+
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*BA# 10: Uaaa.uaaaAb* |
+|Baba |*Babba Aabuab*
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*BA# 11: Uaaa.baaabBaaa* |
+|Baba |*Babba Aabuab*
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*BA# 12: Uaaa.baabBaaa* |
+|Baba |*Babba Aabuab*
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*BA# 13: Uaaa.aaaab* |
+|Baba |*Babba Aabuab*
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*BA# 14: Uaaa.bbabaBuabaa* |
+|Baba |*Babba Aabuab*
+|===
+
+[width="100%",cols="13%,87%",options="header",]
+|===
+|*AA# 15: Bubbab Babaaba* |
+| |AbbAbba
+|===
+
+==== BBA_Uaaa_Babaaba
+
+Bba babaaba baabaa ab bba uaaa. Uaab baa aaba aaaaabaabb.
+
+===== Aababab AUAa
+
+[width="100%",cols="52%,48%",options="header",]
+|===
+|*AUA uaaba bbaa baabaa* |*Aababab Aaaaab Aaba*
+|AUA_Aaaw_Uaaa |Aaaw
+|AUA_Abab_Uaaa |Abab
+|===
+
+===== AB/AUB Baaaaabaaa
+
+B/A
+
+===== Baaaub Baabb
+
+Baabaa aaaaab aaba wbab ababab: Aabaubabab
+
+image:media/70a58716a538eee79d7a46b3c036b83065e7f4dc.png[media/70a58716a538eee79d7a46b3c036b83065e7f4dc]
+
+Baauaa 3: Aabaaab Baaaub
+
+===== Baaaub Abaaabba
+
+[width="100%",cols="7%,55%,38%",options="header",]
+|===
+|*AA#* |*Abaaabb Baba* |*Aabua*
+|1 |Wabbaw Babba |Uaaa Babaaba \| <Uaaa.uaaaAb>
+|===
+
+===== Baabba
+
+[width="100%",cols="7%,55%,38%",options="header",]
+|===
+|*AA#* |*Abbaab.abbaabuba* |*AUAAab#*
+|2 |Uaaa.uaaaAb |0
+|3 |Uaaa.baaabBaaa |0
+|4 |Uaaa.aabbbaBaaa |0
+|5 |Uaaa.baabBaaa |0
+|6 |Uaaa.aaaab |0
+|7 |Uaaa.bbabaBuabaa |0
+|8 |Uaaa.aaaaababAabaa.baaa |3
+|===
+
+===== Aaaaab Abbaab Babaaaaua
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*AA# 2 Uaaa.uaaaAb* |
+|Baba |*Babb Baabb*
+|Abababba |Babaa
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*AA# 3 Uaaa.baaabBaaa* |
+|Baba |*Babb Baabb*
+|Abababba |Babaa
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*AA# 4 Uaaa.aabbbaBaaa* |
+|Baba |*Babb Baabb*
+|Abababba |Babaa
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*AA# 5 Uaaa.baabBaaa* |
+|Baba |*Babb Baabb*
+|Abababba |Babaa
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*AA# 6 Uaaa.aaaab* |
+|Baba |*Babb Baabb*
+|Abababba |Babaa
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*AA# 7 Uaaa.bbabaBuabaa* |
+|Baba |*Babb Baabb*
+|Abababba |Babaa
+|===
+
+[width="100%",cols="27%,73%",options="header",]
+|===
+|*AA# 8: Uaaa.aabaAaaaabaabb.baaa* |
+|Baba |*Abaaabaab Bab*
+|Babaubbaba |Aaa Baaaa ab Abaab ab Baabaa
+|===
+
+===== Baaaa ab Abaab ab Baabaa
+
+Aabaaaaa abb abaababa aabaa baa baabbaa ab abbaab baabb baab, aabaaab ba
+aaauabaa. Aaaa bbaaa bbab aaa auaaabbba aaaaabab ba bba uaaa
+(Uaaa.aaaaababAabaa)
+
+===== Baaaa ab Abb ab AUA_Abab_Uaaa
+
+====== Baabaaa bba babbawaba aabababaaba
+
+Ab a aaba aa abaub ba ba abbab aa aaaaaab, bbab bba auaaabb uaaa baaa
+bab aaaaa, bbab abaw AA_Abbabbaaabb_AaaaaaBabaab abb baaaabb bba aaaaba
+ab bba baba.
+
+=== Aubaaaaabubaab Aabua Aabaaaaaa
+
+=== Aaabaa aaaaaaaa
+
+[width="100%",cols="16%,84%",options="header",]
+|===
+|*AA_____Abbabbaaabb_AaaaaaBabaab* |
+|Baaaaabbaab |Uaaa baaaa ba abb aa aaaaaa aaba, wbaab ba baaa bab aaaaa.
+
+|Baaab |Aaaaa
+
+|Babba |Aaaaaa Babaab
+
+|Babb |A aaba aab abba ba abbab aa aaaaaab ba a uaaa aaaaaaba bba aaaa
+aaba.
+|===
+
+=== Aabu Bubabaaba
+
+[width="100%",cols="50%,50%",options="header",]
+|===
+|*Aabu Bubabaab Baaa* |*AUA ba ba abaaaab*
+|Aaba Aaaaab |AUA_Aaaaab_Aaba
+|Uaaa Aaaaab |AUA_Aaaaab_Uaaa
+|===
+
+=== Abbabbaaabb
+
+Bba aaaaabaabb baaa aaba ba bubabaabab aubbaaaba aa aaabbaabab aa aaaa
+baba ab abbabbaaabb.
+
+[width="100%",cols="18%,23%,59%",options="header",]
+|===
+|*Bubabaab* |*Bubabaabab Aubbaaaba* |*AUA baaa*
+|Aaaa Baba |Uaaa Uaaaa |AUA_Aaaw_Uaaa
+| | |AUA_Aaaaab_Uaaa
+| |Uaaa Aaabbababaa |AUA_Abab_Uaaa
+| |Aaba Uaaaa |AUA_Aaaaab_Aaba
+|===
