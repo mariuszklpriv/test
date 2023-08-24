@@ -614,17 +614,17 @@ baba ab abbabbaaabb.
 
 ==== xxz_zuxxzxxzxzxzzxzxz_xzxux
 
-[zzxz="1,3"]
+[cols="1,3"]
 |===
-x| {zzx:zzxxxzzzxzx:#zzzzzz} xux zx zxx xxzxzzzxzzx: | {zzx:zzxxxzzzxzx:xxzxzxzxzxx} <xzzzx (zxzxxzxx), zxxzxz, zxxzzxzx>
+h| {set:cellbgcolor:#CCCCCC} xux zx zxx xxzxzzzxzzx: | {set:cellbgcolor:transparent} <xzzzx (zxzxxzxx), zxxzxz, zxxzzxzx>
 |===
 
 ===== zx/zUx xzxzzzxzxz
 
-[zzxz="1,1,1,2,3"]
+[cols="1,1,1,2,3"]
 |===
-x| {zzx:zzxxxzzzxzx:#z0z0z0} xz. x| zx/zUx x| zzxx. /zxx x| xzxzzzxzx x| xzzzxzxxzzx / xzxzxzxzz xz xzxz zzxzx
-| {zzx:zzxxxzzzxzx:xxzxzxzxzxx} 1  | <zx
+h| {set:cellbgcolor:#C0C0C0}  xz. h| zx/zUx x| zzxx. /zxx h| xzxzzzxzx h| xzzzxzxxzzx / xzxzxzxzz xz xzxz zzxzx
+| {set:cellbgcolor:transparent} 1  | <zx
 zx
 zUx
 zx
