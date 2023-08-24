@@ -648,7 +648,7 @@ xxzzzz zzzz uzz xzxz zxzxzzx zx xuxxzx xzzxz.>`
 
 === Abbabbaaabb
 
-Bba aaaaabaabb baaa aaba ba bubabaabab aubbaaaba aa aaabbaabab aa aaaa
+Bba aaaaabaabb baaa aaba ba bubabaabab
 baba ab abbabbaaabb.
 
 [width="100%",cols="18%,23%,59%",options="header",]
@@ -657,7 +657,7 @@ baba ab abbabbaaabb.
 |Aaaa Baba |Uaaa Uaaaa |AUA_Aaaw_Uaaa
 | | |AUA_Aaaaab_Uaaa
 | |Uaaa Aaabbababaa |AUA_Abab_Uaaa
-| |Aaba Uaaaa |AUA_Aaaaab_Aaba
+| |Aaba Uaaaa |AUA_Azzzzzb_Aaba
 |===
 
 
